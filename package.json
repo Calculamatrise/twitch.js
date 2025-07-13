@@ -1,0 +1,19 @@
+{
+	"name": "twitch.js",
+	"type": "module",
+	"version": "0.0.1",
+	"description": "A powerful Node.js API wrapper for Twitch.",
+	"main": "src/index.js",
+	"types": "typings/index.d.ts",
+	"directories": { "lib": "src" },
+	"files": [
+		"src",
+		"typings"
+	],
+	"engines": {
+		"node": "18.7.0",
+		"npm": "*"
+	},
+	"author": "Calculamatrise",
+	"license": "ISC"
+}
