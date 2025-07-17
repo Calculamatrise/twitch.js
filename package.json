@@ -1,5 +1,5 @@
 {
-	"name": "twitch.js",
+	"name": "@Calculamatrise/twitch.js",
 	"type": "module",
 	"version": "0.0.1",
 	"description": "A powerful Node.js API wrapper for Twitch.",
@@ -13,6 +13,9 @@
 	"engines": {
 		"node": "18.7.0",
 		"npm": "*"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
 	},
 	"author": "Calculamatrise",
 	"license": "ISC"
